@@ -1,0 +1,30 @@
+= About
+Projeto EncontrosPythonicos
+:reproducible:
+
+****
+
+Inicio
+Cheatsheet
+Pylets
+Sobre
+
+****
+
+.I am the snake thats aproaching
+[quote]
+O projeto {Projeto} busca estimular e espalhar o uso da linguagem de programação Python
+
+JararesDoRioMossoro
+AlucinaçãoRecursiva
+GrupoBemLegalzao
+
+[example]
+....
+first
+second
+tird
+last
+....
+
+link:index.html[go to index]
