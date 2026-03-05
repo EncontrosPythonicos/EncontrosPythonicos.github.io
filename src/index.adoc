@@ -1,7 +1,37 @@
-= Index
+= Encontros Pythonicos
+
+include::components/settings.adoc[]
+
+// include::components/sidebar.adoc[]
 
 
-== Proxímo Encontro:
-Data: 
-Local:
-Hora:
+image::logo.jpg[Logotipo, 250, 250, align="center"]
+
+== O que é o Encontros Pythonicos?
+
+Encontros Pythonicos é um projeto de estensão do curso de Ciência da Computação do departamento de informática da UERN/FANAT. +
+Realizamos encontros periodicamente a cada mês para reunir a comunidade de Python local, tanto profissionais quanto entusiastas, para compartilhamos conhecimentos, dando aulas de diversos asuntos relacionados á Python, trocar experiências, esclarecer dúvidas e nos atualizar quanto ao mercado.
+
+=== Encontros
+
+[#card_encontro]
+Próximo Encontro: Não definido +
+Localização: Não definida
+
+=== Atividades
+
+|===
+|Nome |Horário
+
+|===
+
+=== Contatos
+
+Email: +
+Instagram: https://www.instagram.com/encontrospythonicos/[@encontrospythonicos] +
+Github: https://github.com/EncontrosPythonicos[EncontrosPythonicos]
+
+
+
+
+
