@@ -1,19 +1,8 @@
-include::settings.adoc[]
-
-[#sidebar]
+[#navbar]
 --
-
-image::logo.jpg[Logotipo]
-
 link:index.html[Início]
-
-link:about.html[Sobre]
-
-link:news.html[Notícias]
 
 link:pylets.html[Tutorial Python]
 
 link:recommendations.html[Recomendações de bibliotecas]
-
 --
-
