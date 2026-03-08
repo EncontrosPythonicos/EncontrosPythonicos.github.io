@@ -1,10 +1,50 @@
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
 /* Uncomment the following line when using as a custom stylesheet */
 /* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+
+#navegation {
+    display: flex;
+    height: 6vh;
+   	justify-content:center;
+	align-items:center;
+    background-color: #ffe026;
+    border-style: solid;
+    border-width: 0.1vh;
+    border-color: grey;
+    border-radius: 1vh;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+
+    .content, .paragraph, p {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    a {
+        border-left-style: solid;
+        border-width: 0.09vh;
+        text-align: center;
+        color:#1a4cb3;
+        align-items: center;
+        text-anchor: middle;
+        //padding-top: 2vh;
+        display: inline-block;
+        width: 33.3%;
+        text-decoration:none;
+        line-height: 6vh;
+    }
+    }
+}
+
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
 }
+
+
 a {
     background: none;
 }

@@ -1,8 +1,6 @@
-[#navbar]
+[#navegation]
 --
 link:index.html[Início]
-
 link:pylets.html[Tutorial Python]
-
 link:recommendations.html[Recomendações de bibliotecas]
 --
