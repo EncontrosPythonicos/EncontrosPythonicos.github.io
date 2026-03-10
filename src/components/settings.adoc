@@ -5,3 +5,4 @@
 :showtitle!:
 :stylesheet: style.css
 :docinfo: shared
+:nofooter:

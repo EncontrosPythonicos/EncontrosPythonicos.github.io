@@ -1,5 +1,5 @@
-include::components/settings.adoc[]
 = Encontros Pythonicos
+include::components/settings.adoc[]
 
 include::components/sidebar.adoc[]
 
@@ -34,9 +34,3 @@ Para participar dos encontros como um espectador basta vir ao local descrito ant
 Para ser um palestrante basta submeter um formulário disponível abaixo com suas informações de contato e a palestra ou oficina que deseja ministrar, iremos analizar a proposta e retornamos caso planejemos te chamar para o próximo encontro.
 
 https://forms.gle/tdXiwFa9EAgeM7am6[Formulário de participação]
-
-=== Contatos
-
-Instagram: https://www.instagram.com/encontrospythonicos/[@encontrospythonicos] +
-Github: https://github.com/EncontrosPythonicos[EncontrosPythonicos] +
-Linktree: https://linktr.ee/encontrospythonicos[Links]

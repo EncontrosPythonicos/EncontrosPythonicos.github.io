@@ -6,7 +6,7 @@
     display: flex;
     height: 6vh;
    	justify-content:center;
-	align-items:center;
+    align-items:center;
     background-color: #ffe026;
     border-style: solid;
     border-width: 0.1vh;
@@ -30,12 +30,10 @@
         color:#1a4cb3;
         align-items: center;
         text-anchor: middle;
-        //padding-top: 2vh;
         display: inline-block;
         width: 33.3%;
         text-decoration:none;
         line-height: 6vh;
-    }
     }
 }
 
@@ -670,7 +668,7 @@ p a > code:hover {
     width: 100%;
     margin: 0 auto;
     max-width: 62.5em;
-    *zoom: 1;
+    zoom: 1;
     position: relative;
     padding-left: 0.9375em;
     padding-right: 0.9375em;
@@ -783,7 +781,7 @@ body.toc2 #header > h1:nth-last-child(2) {
     text-decoration: underline;
 }
 #toctitle {
-    color: #7a2518;
+    color: #38709D;
     font-size: 1.2em;
 }
 @media screen and (min-width: 768px) {
@@ -875,8 +873,15 @@ body.toc2 #header > h1:nth-last-child(2) {
 }
 #footer {
     max-width: none;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgb(56, 116, 168, 1);
     padding: 1.25em;
+
+    h3, a {
+        text-decoration: bold;
+        color: #ffcb00;
+    }
+
+
 }
 #footer-text {
     color: hsla(0, 0%, 100%, 0.8);

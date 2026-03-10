@@ -1,0 +1,25 @@
+= Recomendações de Bibliotecas
+include::components/settings.adoc[]
+:toc: left
+:toc-title: Tópicos
+
+include::components/sidebar.adoc[]
+
+
+==== Automação de tarefas
+
+* https://pyautogui.readthedocs.io/en/latest/[PyAutoGui]
++
+  Biblioteca de automação de desktop com a capacidade de assumir o controle tando do mouse quanto do teclado podendo realizar tarefas como abrir seu navegador e organizar suas abas em ordem alfabética.
+
+* https://selenium-python.readthedocs.io/[Selenium]
++
+  Automação de atividades no navegador por meio de simulação de requisições https.
+
+==== Interface gráfica
+
+==== Grafos
+
+==== Matemática
+
+==== Inteligência artificial
