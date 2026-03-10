@@ -18,8 +18,38 @@ include::components/sidebar.adoc[]
 
 ==== Interface gráfica
 
+* https://docs.python.org/3/library/tkinter.html[Tkinter]
++
+  Interface nativa do própio Python, simple e fácil de usar, ótima para protótipos.
+
+* https://github.com/pyimgui/pyimgui[ImGui]
++
+  Binding da interface dear imgui do c++, rápida e simples de usar, execelente para ferramentas internas.
+
 ==== Grafos
 
-==== Matemática
+* https://graphviz.readthedocs.io/en/stable/manual.html[Graphviz]
++
+  Engine e biblioteca de visualização e tratamento de grafos. Utiliza como linguagem para descrever os grafos a .dot
 
-==== Inteligência artificial
+==== Ciência da computação
+
+* https://numpy.org/[Numpy]
++
+  Conjunto de bibliotecas que abordam desde processamento de dados, algorítimos, visualização de dados e vários outros de alta performance.
+
+==== Criação de gráficos
+
+* https://matplotlib.org/[MatPlotLib]
++
+  Biblioteca para a criação de gráficos e visualização de dados.
+
+==== Gamedev
+
+* https://www.pygame.org/wiki/about[Pygame]
++
+  Biblioteca de desenvolvimento de jogos baseada em sdl e foco em orientação a objetos de uso simples.
+
+* https://electronstudio.github.io/raylib-python-cffi/[Raylib]
++
+  Bindings da biblioteca em C para Python, a Raylib é uma biblioteca com uso simples e dinâmico para a criação de jogos com suporte a WebAssembly, Desktop e dispositivos Android.
