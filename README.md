@@ -14,9 +14,9 @@ Para transformar os arquivos .adoc em html segue-se os seguintes passos:
 
 2. Com a ferramenta instalada basta usar o seguinte comando na pasta raíz do repositório para gerar o html
 
-´´´bash
+```bash
 asciidoctor -D ./ -a linkcss src/*.adoc
-´´´
+```
 
 ## Como alterar o site
 
@@ -25,3 +25,4 @@ Para modificar o site basta modificar ou adicionar os arquivos .adoc na pasta /s
 ## Estilo do site
 
 Todo o estilo do site está no arquivo style.css
+
