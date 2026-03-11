@@ -10,7 +10,11 @@ As páginas html são apenas uma projeção os arquivos de conteúdo de fato est
 
 Para transformar os arquivos .adoc em html segue-se os seguintes passos:
 
+<<<<<<< HEAD
 . Tenha as ferramentas cli de aciidoc instaladas no seu computador: https://docs.asciidoctor.org/asciidoctor/latest/install/[Asciidoctor]
+=======
+. Tenha as ferramentas cli de aciidoc instaladas no seu computador: [Asciidoctor]https://docs.asciidoctor.org/asciidoctor/latest/install/
+>>>>>>> 10f7ec51390cb2e38bc83c2eea583a4291a59fa2
 
 . Com a ferramenta instalada basta usar o seguinte comando na pasta raíz do repositório para gerar o html
 
