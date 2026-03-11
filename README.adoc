@@ -1,0 +1,30 @@
+= Site estático do Encontros Pythônicos
+
+Este é o site de apresentação do projeto de extensão Encontros Pythônicos hosteado utilizando o Github pages.
+
+Para a geração de html o site utiliza a linguagem de marcação https://docs.asciidoctor.org/asciidoc/latest/[Asciidoc] pela sua consistência e ferramentas que já vem em conjunto
+
+As páginas html são apenas uma projeção os arquivos de conteúdo de fato estão na pasta **src/**
+
+== Como gerar o html
+
+Para transformar os arquivos .adoc em html segue-se os seguintes passos:
+
+. Tenha as ferramentas cli de aciidoc instaladas no seu computador: https://docs.asciidoctor.org/asciidoctor/latest/install/[Asciidoctor]
+
+. Com a ferramenta instalada basta usar o seguinte comando na pasta raíz do repositório para gerar o html
+
+[source,bash]
+----
+asciidoctor -D ./ -a linkcss src/*.adoc
+----
+
+== Como alterar o site
+
+Para modificar o site basta modificar ou adicionar os arquivos .adoc na pasta /src, quando salvar o arquivo basta gerar o html novamente.
+
+== Estilo do site
+
+Todo o estilo do site está no arquivo style.css
+
+
